@@ -1,2 +1,3 @@
 # Git and Github Lab German Andres Sanchez Motta
-Cloned Repository - Ana 
+
+Cloned Repository - by Ana
